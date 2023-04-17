@@ -1,0 +1,15 @@
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\bin\Debug\net7.0\MSWConvert.exe
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\bin\Debug\net7.0\MSWConvert.deps.json
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\bin\Debug\net7.0\MSWConvert.runtimeconfig.json
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\bin\Debug\net7.0\MSWConvert.dll
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\bin\Debug\net7.0\MSWConvert.pdb
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.csproj.AssemblyReference.cache
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.AssemblyInfoInputs.cache
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.AssemblyInfo.cs
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.csproj.CoreCompileInputs.cache
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.dll
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\refint\MSWConvert.dll
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.pdb
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\MSWConvert.genruntimeconfig.cache
+C:\Users\rokja\source\repos\MSWConvert\MSWConvert\obj\Debug\net7.0\ref\MSWConvert.dll
