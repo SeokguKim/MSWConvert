@@ -12,5 +12,9 @@ MapleStory Worlds .mod file to readable .txt file conversion
 2. 기다립니다.
 3. Conversion Complete가 나오면 끝납니다.
 
+# Dependencies
+.NET 7.0 Framework
+(Recommanded: C# for Visual Studio)
+
 # Contact
 rokja97@naver.com
