@@ -3,6 +3,11 @@ MapleStory Worlds .mod file to readable .txt file conversion
 
 메이플스토리 월드 .mod 파일을 읽을만한 .txt 파일로 변환/역변환 해줍니다.
 
+# Notice
+My new project ShortSwordSlicer would be better than this.  
+ShortSwordSlicer라는 상위호환의 프로젝트를 개발해 공개 중에 있습니다.  
+<https://github.com/SeokguKim/ShortSwordSlicer>
+
 # Quick Guide
 1. Execute the program(MSWConvert/bin/Release/net7.0/MSWConvert.exe) and input your path to .mod or .txt file.
 2. Wait for 2,000 years.
